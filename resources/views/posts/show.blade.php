@@ -21,7 +21,7 @@
                         </div>
                     </div>
                 </div>
-                
+                <hr/>
                 <p>
                     <span class="font-weight-bold">
                         <a href="/profile/{{ $post->user->id }}">

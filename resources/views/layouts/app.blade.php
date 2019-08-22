@@ -24,8 +24,8 @@
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     <div class="d-flex">
-                        <div><img src="/svg/mainLogo.svg" style="height: 20px; border-right: 1px solid #333333;" class="pr-3" /></div>
-                        <div class="pl-3 pt-1">{{ config('app.name', 'Laravel') }}</div>
+                        <div><img src="/svg/camera.svg" style="height: 28px; border-right: 1px solid #333333;" class="pr-3" /></div>
+                        <div class="pl-3 text-uppercase">{{ config('app.name', 'Laravel') }}</div>
                     </div>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">

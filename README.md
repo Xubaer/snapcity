@@ -1,5 +1,6 @@
 # Snap City
-This is a photo sharing social media web application.
+This is a photo sharing social media web application.<br>
+Visit [DEMO](http://quiet-waters-12647.herokuapp.com)
 
 ## Technology Stack
 - PHP 7.1
